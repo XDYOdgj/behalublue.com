@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://behalublue.com/sitemap.xml
